@@ -1,1 +1,1 @@
-# HelloWorld_SmartContract
+# HelloWorld SmartContract
